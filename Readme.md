@@ -112,5 +112,6 @@ Stay tuned for progressive updates as the project matures.
 For inquiries regarding the prototype, feedback, or permissions:
 
 **Author:** Maruf Hasan  
-**Administration:** BinaryOxide
+**Administration:** InterCentury
+
 
